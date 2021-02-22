@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-flag-API/static/css/main.7fe85ac8.chunk.css",
+    "main.js": "/react-flag-API/static/js/main.899645cb.chunk.js",
+    "main.js.map": "/react-flag-API/static/js/main.899645cb.chunk.js.map",
+    "runtime-main.js": "/react-flag-API/static/js/runtime-main.bf72b466.js",
+    "runtime-main.js.map": "/react-flag-API/static/js/runtime-main.bf72b466.js.map",
+    "static/js/2.1c72b0df.chunk.js": "/react-flag-API/static/js/2.1c72b0df.chunk.js",
+    "static/js/2.1c72b0df.chunk.js.map": "/react-flag-API/static/js/2.1c72b0df.chunk.js.map",
+    "static/js/3.7888fba4.chunk.js": "/react-flag-API/static/js/3.7888fba4.chunk.js",
+    "static/js/3.7888fba4.chunk.js.map": "/react-flag-API/static/js/3.7888fba4.chunk.js.map",
+    "index.html": "/react-flag-API/index.html",
+    "static/css/main.7fe85ac8.chunk.css.map": "/react-flag-API/static/css/main.7fe85ac8.chunk.css.map",
+    "static/js/2.1c72b0df.chunk.js.LICENSE.txt": "/react-flag-API/static/js/2.1c72b0df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf72b466.js",
+    "static/js/2.1c72b0df.chunk.js",
+    "static/css/main.7fe85ac8.chunk.css",
+    "static/js/main.899645cb.chunk.js"
+  ]
+}
