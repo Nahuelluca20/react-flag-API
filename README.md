@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Flag Country Search
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://repository-images.githubusercontent.com/268180119/41965780-a2df-11ea-817e-f55c19de389e"/>
+
 
 ## Available Scripts
 
